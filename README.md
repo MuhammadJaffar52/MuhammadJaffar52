@@ -7,7 +7,7 @@ Lahore, Pakistan · [jaffar.devops052@gmail.com](mailto:jaffar.devops052@gmail.c
 
 ## Summary
 
-DevOps and Platform Engineer with 1.5+ years of experience designing, automating, and operating production-grade AWS infrastructure. Core work includes private EKS clusters provisioned with Terraform, zero-trust workload identity through IRSA and OIDC, GitOps delivery with ArgoCD, and end-to-end observability with Prometheus and Grafana. Focused on reliability engineering, security, and measurable delivery improvements.
+DevOps and Platform Engineer with 2+ years of experience designing, automating, and operating production-grade AWS infrastructure. Core work includes private EKS clusters provisioned with Terraform, zero-trust workload identity through IRSA and OIDC, GitOps delivery with ArgoCD, and end-to-end observability with Prometheus and Grafana. Focused on reliability engineering, security, and measurable delivery improvements.
 
 ## Core Competencies
 
